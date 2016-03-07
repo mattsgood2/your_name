@@ -1,13 +1,5 @@
 class Asking:
-    my_list = [
-
-    'matthew',
-    'pim',
-    'jessica',
-    'leo',
-    'lillie'
-
-    ]
+    my_list = []
 
     def __init__(self):
 
